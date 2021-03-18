@@ -21,3 +21,4 @@ Programmeer de volgende transitie van hamburger naar kruisje wanneer de gebruike
 * _Tip bij stap 4_: focus je eerst op de begin- en eindstaat voor je je bezig houdt met transities. Het begin is een zichtbaar balkje. Het eind is een onzichtbaar balkje.
 * _Tip bij stap 4 - vervolg_: als je de `opacity` aanpast doe je dat voor het basis element, en automatisch ook voor de pseudo-elementen. Niet ideaal dus, want de buitenste heb je nog nodig. Ga eens op zoek naar wat je kunt doen met de _kleur_ van het middelste balkje.
 * _Tip bij stap 5_: Benieuwd hoe je elementen kunt draaien? Google eens op `CSS transform Property`
+# hamburger-menu
